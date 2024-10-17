@@ -13,6 +13,8 @@ Trabalho com Data base,  estou aqui para aprimorar meu conhecimento.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natamii&theme=transparent&bg_color=rrr&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=30A3DC)
 
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natamii&layout=compact&bg_color=rrr&border_color=30A3DC&title_color=E94D5F&text_color=E94D5F)
 
 ##
 ### 🤓 Estudando atualmente:
